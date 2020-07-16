@@ -1,2 +1,2 @@
 # MyWeather
-A code base for a full-stack MyWeather app, and Find-Songs-to-Dance app.
+Allow users to find the weather of the cities they are interested in.
